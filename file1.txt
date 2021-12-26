@@ -1,3 +1,4 @@
 Hello There 
 New line added
 Line modified in master branch
+New line added for stash
